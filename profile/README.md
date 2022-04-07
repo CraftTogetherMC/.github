@@ -13,7 +13,7 @@
 
 #
 <!-- Social Media -->
-<a href="https://craft-together-mc.de"><img align="left" alt="CraftTogetherMC | Website" width="29px" src="https://raw.githubusercontent.com/CraftTogetherMC/.github/master/profile/assets/socials/website.svg"/></a>
+<a href="https://minecraft-server.eu/server/index/1FD9F/CraftTogetherMC-Vanilla-Gameplay-Freebuild-Survival"><img align="left" alt="CraftTogetherMC | Website" width="29px" src="https://raw.githubusercontent.com/CraftTogetherMC/.github/master/profile/assets/socials/website.svg"/></a>
 <a href="https://discord.gg/mmS4VTK"><img align="left" alt="CraftTogetherMC | Discord" width="29px" src="https://raw.githubusercontent.com/CraftTogetherMC/.github/master/profile/assets/socials/discord.svg"/></a>
 <a href="https://twitter.com/CraftTogetherDE/"><img align="left" alt="CraftTogetherDE | Twitter" width="29px" src="https://raw.githubusercontent.com/CraftTogetherMC/.github/master/profile/assets/socials/twitter.svg"/></a>
 <a href="https://www.instagram.com/crafttogethermc.de/"><img align="left" alt="CraftTogetherMC.de | Instagram" width="33px" src="https://raw.githubusercontent.com/CraftTogetherMC/.github/master/profile/assets/socials/instagram.svg"/></a>
