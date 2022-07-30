@@ -5,7 +5,7 @@
 
 <p>Hier findest du die Source-Codes unserer Projekte.</p>
 <p>Jenkins-Server: <a href="https://ci.craft-together-mc.de/">https://ci.craft-together-mc.de/</a></p>
-<p>Maven-Repository: <a href="https://repo.craft-together-mc.de/">https://repo.craft-together-mc.de/</a></p>
+<p>Maven-Repository: <a href="https://maven.craft-together-mc.de/">https://maven.craft-together-mc.de/</a></p>
 
 #### Für Mitwirkende:
 <p>Jeder Commit auf GitHub löst automatisch einen Build-Prozess durch <a href="https://ci.craft-together-mc.de">Jenkins</a> aus!</p>
